@@ -1,0 +1,14 @@
+D:\Ecommerce_microservices_project\order-service\publish\OrderService.exe
+D:\Ecommerce_microservices_project\order-service\publish\appsettings.Development.json
+D:\Ecommerce_microservices_project\order-service\publish\appsettings.json
+D:\Ecommerce_microservices_project\order-service\publish\OrderService.dll
+D:\Ecommerce_microservices_project\order-service\publish\OrderService.deps.json
+D:\Ecommerce_microservices_project\order-service\publish\OrderService.runtimeconfig.json
+D:\Ecommerce_microservices_project\order-service\publish\OrderService.pdb
+D:\Ecommerce_microservices_project\order-service\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\Ecommerce_microservices_project\order-service\publish\Microsoft.OpenApi.dll
+D:\Ecommerce_microservices_project\order-service\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ecommerce_microservices_project\order-service\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ecommerce_microservices_project\order-service\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ecommerce_microservices_project\order-service\publish\SharedLibrary.dll
+D:\Ecommerce_microservices_project\order-service\publish\SharedLibrary.pdb
